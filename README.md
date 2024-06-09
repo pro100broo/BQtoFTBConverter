@@ -8,7 +8,7 @@ Note, that u may have issues with quests and tabs icons because of item ID confl
 3. Run the script from the project directory
 
 ```console
->>> python main.py
+>>> python file_namager.py
 ```
 
 ### Features
