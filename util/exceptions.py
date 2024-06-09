@@ -1,0 +1,2 @@
+class TabsNameCollisionException(Exception):
+    pass
